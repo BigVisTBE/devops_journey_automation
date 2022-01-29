@@ -1,4 +1,4 @@
-# Learning DevOps Manually
+# Learning DevOps - Second part automation with bash scripts
 This code is me following along with the Udemy course by **Imran Teli** named [DevOps Projects | 20 Real Time DevOps Projects](https://www.udemy.com/course/devopsprojects/) except that my lab is using VMWare Workstation Pro.
 
 This is the second part of the project which is learning how to setup the environment with bash scripts for automation.
